@@ -2,6 +2,8 @@
 
 Welcome to **FarmBox**, your go-to online store for fresh, organic fruits and vegetables. FarmBox is built using React, offering a user-friendly interface to browse, select, and purchase organic produce. This project also utilizes Redux for efficient cart state management, ensuring a seamless shopping experience.
 
+https://66d015aadeb676a841b7370f--farmbox.netlify.app/
+
 ## Table of Contents
 
 1. [Features](#features)
