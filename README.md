@@ -6,7 +6,7 @@ Welcome to **FarmBox**, your go-to online store for fresh, organic fruits and ve
 
 ![Screenshot 2024-08-27 202750](https://github.com/user-attachments/assets/d36d8af5-95fe-4a80-91ad-f32adebc19de)
 # FarmBox Website-Link
-https://66d015aadeb676a841b7370f--farmbox.netlify.app/
+[https://66d015aadeb676a841b7370f--farmbox.netlify.app/](https://66d01c1c02ed16a4751639dc--ecommercefarmbox.netlify.app/)
 
 ## Table of Contents
 
