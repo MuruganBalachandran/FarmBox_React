@@ -7,9 +7,8 @@ Welcome to **FarmBox**, your go-to online store for fresh, organic fruits and ve
 1. [Features](#features)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [Project Structure](#project-structure)
-5. [Technologies Used](#technologies-used)
-6. [Contributing](#contributing)
+4. [Technologies Used](#technologies-used)
+5. [Contributing](#contributing)
 
 ## Features
 
@@ -60,12 +59,6 @@ To run this project locally, follow these steps:
 - **Add to Cart:** Click on a product to view its details and use the "Add to Cart" button to include it in your shopping cart.
 - **View Cart:** Click on the cart icon to view the items added to your cart, update quantities, or remove items.
 - **Checkout:** Proceed to the checkout page to review your order and finalize your purchase.
-
-## Project Structure
-
-Here's a brief overview of the project's structure:
-
-FarmBox_Ecommerce_React/ │ ├── public/ │ ├── index.html │ └── ... │ ├── src/ │ ├── components/ # Reusable UI components │ ├── pages/ # Different pages (Home, Product, Cart, Checkout) │ ├── redux/ # Redux setup (actions, reducers, store) │ ├── assets/ # Images, icons, and other assets │ ├── App.js # Main app component │ ├── index.js # Entry point │ └── ... │ ├── package.json # Project dependencies and scripts └── README.md # Project documentation
 
 
 ## Technologies Used
