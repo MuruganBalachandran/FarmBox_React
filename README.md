@@ -28,13 +28,13 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/MuruganBalachandran/FarmBox_Ecommerce_React.git
+    git clone [https://github.com/MuruganBalachandran/FarmBox_Ecommerce_React.git](https://github.com/MuruganBalachandran/FarmBox_React.git)
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd FarmBox_Ecommerce_React
+    cd FarmBox_React
     ```
 
 3. **Install the dependencies:**
