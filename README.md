@@ -10,7 +10,6 @@ Welcome to **FarmBox**, your go-to online store for fresh, organic fruits and ve
 4. [Project Structure](#project-structure)
 5. [Technologies Used](#technologies-used)
 6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Features
 
